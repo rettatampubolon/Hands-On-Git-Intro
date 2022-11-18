@@ -1,3 +1,4 @@
+
 print("Nama: Malik Akbar")
 print("Jurusan: Teknik Informatika")
 print("Universitas: ITB")
